@@ -13,5 +13,5 @@ https://bkarmay.shinyapps.io/PricePredictorForDiamonds/
 
 Click the Below Link for the Rpubs presentation.
 
-http://rpubs.com/bkarmay/338599
+https://rpubs.com/fredo1978/695386
 
